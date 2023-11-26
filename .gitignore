@@ -2,3 +2,5 @@ test/
 BD/
 venv/Lib
 venv/
+build
+dist
